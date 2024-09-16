@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "drone",
+			"path": ".."
+		},
+		{
+			"path": "../../../haarcascades"
+		}
+	],
+	"settings": {}
+}

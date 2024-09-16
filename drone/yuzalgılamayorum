@@ -1,0 +1,5 @@
+İlk olarak projeyi yaparken belli bir aralık belirtmeliyiz.Bu aralıkta yuzu algılar.
+Yuz kadraj dışında ise  ileri ve geri hareketleri yapar ve yuzu kadrja almaya calışır.
+
+yan dönüşleri yapabilmesi için pid metodu kullanılır.
+Burada yan dönerkeninsan yuzunu görene kadar donus yapar ancak aynı hızla gitmeye devam ederse dönüşü kaçıradabilir bu sebeple  merkeze ulaştıgında yavaslamasını isteriz.
